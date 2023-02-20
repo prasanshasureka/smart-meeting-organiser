@@ -1,0 +1,11 @@
+.dashboard{
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.child-cards{
+    height: 50vh;
+    width: 25%;
+    margin: 10px;
+}

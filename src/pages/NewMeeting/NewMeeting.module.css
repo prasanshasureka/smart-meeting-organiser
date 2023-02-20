@@ -1,0 +1,16 @@
+.page {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+}
+
+.child-cards {
+  height: 50vh;
+  width: 25%;
+  margin: 10px;
+}
+
+h2{
+  color: black;
+}
